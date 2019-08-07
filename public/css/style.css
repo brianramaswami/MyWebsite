@@ -307,7 +307,7 @@ main {
   width: 100%;
 
   /* Box-model */
-  padding: 15px;
+  padding: 0px 15px 0px 15px;
   margin-bottom: 0;
   font-weight: 300;
   line-height: 30px;
@@ -469,6 +469,7 @@ input[type=submit] {
   .work,
   .auth-image {
     width: 100%;
+    /* width: 75%; */
   }
 
   nav {
@@ -491,6 +492,8 @@ input[type=submit] {
     margin-left: 0;
   }
 }
+
+
 .no-bullets {
   list-style-type: none;
 }
@@ -532,4 +535,10 @@ input[type=submit] {
 
 #starwars-rpg-img{
   height: 205.5px;
+}
+
+#R-P-S-image{
+  height: 205.5px;
+  padding:1px;
+  border:1px solid #0c0c0c;
 }
