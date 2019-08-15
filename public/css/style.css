@@ -305,6 +305,7 @@ main {
   position: absolute;
   bottom: 20px;
   width: 100%;
+  
 
   /* Box-model */
   padding: 0px 15px 0px 15px;
@@ -538,7 +539,24 @@ input[type=submit] {
 }
 
 #R-P-S-image{
-  height: 235.5px;
+  height: 205.5px;
   padding:1px;
   border:1px solid #0c0c0c;
 }
+
+#waitlist-image{
+  height: 205.5px;
+  padding:1px;
+  border:1px solid #0c0c0c;
+}
+
+#finder-image{
+  height: 205.5px;
+  padding:1px;
+  border:1px solid #0c0c0c;
+}
+
+/* #finder-Title{
+  
+  /* min-height: 27%; */
+/* } */
