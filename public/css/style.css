@@ -556,7 +556,8 @@ input[type=submit] {
   border:1px solid #0c0c0c;
 }
 
-/* #finder-Title{
-  
-  /* min-height: 27%; */
-/* } */
+#gif-image{
+  height: 205.5px;
+  padding:1px;
+  border: 1px solid black;  
+}
